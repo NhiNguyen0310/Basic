@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.one {
+	background-image:url(Desert.jpg);
+	color:#FFF;
+	width:60%;
+	padding:30px;
+	margin-bottom:5px;
+	text-transform:capitalize;
+	font-size:24px;
+	font-weight:bold;
+	}
+div.two {
+	background-image:url(Hydrangeas.jpg);
+	color:#FFF;
+	width:60%;
+	padding:30px;
+	margin-bottom:5px;
+	text-transform:capitalize;
+	font-size:24px;
+	font-weight:bold;
+	}
+div.three {
+background-image:url(Jellyfish.jpg);
+color:#FFF;
+	width:60%;
+	padding:30px;
+	margin-bottom:5px;
+	text-transform:capitalize;
+	font-size:24px;
+	font-weight:bold;
+}
